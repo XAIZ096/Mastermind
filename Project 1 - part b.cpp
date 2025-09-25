@@ -5,9 +5,6 @@
 #include <ctime>
 using namespace std;
 
-//Forward declaration
-class code;
-
 class response {
 private:
     int correct;
